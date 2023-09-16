@@ -1,4 +1,4 @@
 module.exports = 
 {
-    active_servers: ['bets','balvenie'],
+    active_servers: ['balvenie','bets','betgo','bulls','casino','noble','nova','kwin']
 }
